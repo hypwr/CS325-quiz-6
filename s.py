@@ -1,5 +1,3 @@
-
-
 class Item: # Responsibility: contains item name and cost
     def __init__(self,name,cost):
         self.name = name
